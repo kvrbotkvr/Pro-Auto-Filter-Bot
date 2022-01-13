@@ -8,11 +8,15 @@ class Translation(object):
 
 <b>Am Just A Pro Auto Filter Bot....😉</b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
+<b> ഞാൻ റോബോട്ട്  🔥🔥😝</b>
 
-<b>Watch the video below to build an Pro Autofilter bot like me...</b>
+<b> എന്നെ ഉണ്ടാക്കിയത് മിർഷാദ് ആണ് ...</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b> എന്നിൽ യൂസ് ചെയ്തിരിക്കുന്ന ലാംഗ്വേജ് Python ആണ് ...</b>
+
+<b> എന്നിൽ യൂസ് ചെയ്തിരിക്കുന്ന ലാംഗ്വേജ് Python ആണ് ...</b>
+
+<b> എന്തെങ്കിലും errors ഉണ്ടങ്കിൽ എന്റെ അഡ്മിൻ നെ അറിയിക്കുക ...</b>
 
 <b>Press /help to know about available commands🤪</b>"""    
     
@@ -46,18 +50,18 @@ class Translation(object):
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><a href="https://t.me/Mo_Tech_YT">MoTechYT</a></b>
+<b><a href="https://t.me/kvr_admin_bot">Mirshad</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
     
-<b>➥ 😎Creator</b> : <b>@AlbertEinstein_TG</b> 
+<b>➥ 😎Creator</b> : <b>@kvr_admin_bot</b> 
 
-<b>➥ 👨‍💻Editor</b> : <b>@Mrk_YT</b>
+<b>➥ 👨‍💻Editor</b> : <b>@kvr_admin_bot</b>
 
 <b>➥ 🗣️Language</b> : <b>Python3</b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/mkcodes">💥Click Me</a></b>
 """
